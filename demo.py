@@ -4,4 +4,3 @@ def my_function():
     return a
 
 my_function()
-
