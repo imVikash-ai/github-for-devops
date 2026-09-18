@@ -4,5 +4,5 @@ def my_function():
     b = 6
     return a+b
 
-my_function()
 
+my_function()
