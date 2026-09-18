@@ -1,8 +1,10 @@
-def my_function():
+"""Demo module for testing Pylint."""
 
+
+def my_function():
+    """Return the value 5."""
     a = 5
-    b = 6
-    return a+b
+    return a
 
 
 my_function()
